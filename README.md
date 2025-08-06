@@ -1,12 +1,38 @@
-<h1 align="center">Hi 👋, I'm Hemesh Patel</h1>
-<h3 align="center">Figure it out Full stack Engineer</h3>
+### 👋 Hey, I’m Hemesh
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hemeshvpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemeshvpatel" height="30" width="40" /></a>
-</p>
+Product-minded engineer ☕️ | Builder of things | React + AI + two dogs
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I love turning ideas into working software — fast. I think in flows, ship iteratively, and lean toward tools that get out of the way so the product can shine. I’m usually knee-deep in a side project, debugging with coffee in hand, or automating something weird with n8n.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemeshvpatel&show_icons=true&locale=en&layout=compact" alt="hemeshvpatel" /></p>
+---
+
+### 🚀 Things I’ve Built
+
+- [🧠 ReactStudyKit](https://reactstudykit.com)  
+  A learning platform for React devs — with challenges, flashcards, and a custom whiteboard. Built solo from concept to production.
+
+- 🤖 AI + Automation experiments  
+  I’m exploring OpenAI, LangChain, and n8n to build automations, agents, and occasionally, chaos — all in the name of productivity.
+
+- 🛠️ Random dev tools  
+  If I can scratch my own itch with a tiny app or workflow, I’ll probably build it.
+
+---
+
+### 🛠 Tech I Love Working With
+
+`React` · `Next.js` · `TypeScript` · `Convex` · `Supabase` · `ShadCN`  
+`n8n` · `PostHog` · `OpenAI` · `Stripe` · `Whatever Gets It Shipped`
+
+---
+
+### 📍 Currently
+
+- Learning more about AI + dev workflows  
+- Automating my life one n8n flow at a time  
+- Brewing better coffee every week ☕️  
+- Open to collaborating with awesome builders
+
+---
+
+[![Hemesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemeshvpatel&show_icons=true&theme=tokyonight)](https://github.com/hemeshvpatel)
