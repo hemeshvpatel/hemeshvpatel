@@ -1,21 +1,34 @@
-### 👋 Hey, I’m Hemesh
+# Hey — I'm Hemesh 👋
 
-Product-minded engineer ☕️ | Builder of things | React + AI + two dogs
+Product-focused engineer working at the intersection of **product, design, and engineering**.
 
-I love turning ideas into working software — fast. I think in flows, ship iteratively, and lean toward tools that get out of the way so the product can shine. I’m usually knee-deep in a side project, debugging with coffee in hand, or automating something weird with n8n.
+I like turning ambiguous ideas into **clear, shippable products**, often getting involved early in discovery and design to help shape what gets built and how.
 
----
+Most of my work lives in the frontend with **React, TypeScript, and React Native**, but I regularly work across the stack when needed.
 
-### 🛠 Tech I Love Working With
+## Core Stack
 
-`React` · `Next.js` · `TypeScript` · `Convex` · `Supabase` · `ShadCN`  
-`n8n` · `PostHog` · `OpenAI` · `Stripe` · `Whatever Gets It Shipped`
+**Frontend**
+- React (Next.js)
+- TypeScript / JavaScript
+- React Native (Expo)
+- TanStack Query
 
----
+**Product & UI**
+- Accessibility
+- Performance
+- Design systems
+- Figma collaboration
 
-### 📍 Currently
+**Backend (when needed)**
+- Node.js
+- Ruby
+- Supabase
+- Convex (my favorite and go to)
 
-- Learning more about AI + dev workflows  
-- Automating my life one n8n flow at a time  
-- Brewing better coffee every week ☕️  
-- Open to collaborating with awesome builders
+## What I care about
+
+- Thoughtful UX
+- Accessible and performant interfaces
+- Engineers shaping the **product**, not just the code
+- Shipping real things people use
